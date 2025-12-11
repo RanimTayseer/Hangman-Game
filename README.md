@@ -21,4 +21,6 @@ The game progressively reveals correct letters, tracks incorrect guesses intelli
 
 ```bash
 python Hangman_game!.py
+
+
 ![Hangman Diagram](./hangman_diagram.png)
