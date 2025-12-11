@@ -1,3 +1,5 @@
+![Hangman Diagram](./hangman_diagram.png)
+
 # Hangman Game  
 
 A simple and interactive Python word-guessing game where the player attempts to uncover the hidden word before running out of lives.  
